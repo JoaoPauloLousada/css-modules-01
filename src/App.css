@@ -9,24 +9,9 @@
   place-items: center;
   background-color: aquamarine;
 }
-.card, .article {
+.card {
   background-color: white;
   border-radius: 5px;
   box-shadow: 1px 2px 3px 0;
   padding: 30px 15px;
-}
-.title, .article__title {
-  color: #222;
-  font-size: 1.5rem;
-  margin-bottom: 1rem;
-}
-.description, .article__description {
-  color: blue;
-  font-size: 1.2rem;
-}
-.article__title {
-  color: red;
-}
-.article__description {
-  color: green;
 }

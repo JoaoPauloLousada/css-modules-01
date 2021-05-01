@@ -1,0 +1,10 @@
+.wrapper {
+  composes: card from global;
+  background-color: brown;
+}
+.header {
+  color: white;
+}
+.content {
+  color: #eee;
+}

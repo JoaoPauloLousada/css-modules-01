@@ -1,0 +1,12 @@
+.wrapper {
+  composes: card from global;
+}
+.header {
+  color: orange;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+.content {
+  color: blue;
+  font-size: 1.2rem;
+}
