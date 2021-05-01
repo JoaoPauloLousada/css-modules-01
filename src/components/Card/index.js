@@ -1,9 +1,10 @@
 import React from 'react'
 
-export default function Card({children}) {
+export default function Card() {
   return (
     <div class="card">
-      {children}
+      <h2 className="title">Titulo do card</h2>
+      <p className="description">descricao do card</p>
     </div>
   )
 }
